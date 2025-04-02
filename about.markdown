@@ -2,5 +2,8 @@
 layout: page
 title: About
 permalink: /about/
+published: false
 ---
-lukasn
+about: lukas n
+
+link to reading list
