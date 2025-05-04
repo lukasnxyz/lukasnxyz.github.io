@@ -92,3 +92,5 @@ fn main() {
     let fib_nums = |n: u32| (0..=n).map(fib).collect::<Vec<u32>>();
     println!("fib nums: {:?}", fib_nums(10));
 }
+
+should do some functional programming in python as well
